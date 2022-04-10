@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, mi nombre Neider Hamburger</h1>
-<h3 align="center">Soy un desarrollador de software proactivo, responsable y con capacidad para el aprendizaje, diseño, e implementación y construcción de soluciones informaticas con conocimientos en diversas tecnologias tanto para el backend como para el frontend.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
